@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="bmg_name">Beth Medrash Gevoah</string>
+    <string name="choshen_mishpat_name">Kollel Choshen Mishpat</string>
+    <string name="anshei_sefard_name">Congregation Anshei Sfard</string>
+
+    <string name="bmg_address">617 6th Street, Lakewood, NJ 08701</string>
+    <string name="choshen_mishpat_address">625 Forest Ave, Lakewood, NJ 08701</string>
+    <string name="anshei_sefard_address">1250 Madison Ave, Lakewood, NJ 08701</string>
+
+
+    <string name="bagel_nosh_name">Bagel Nosh</string>
+    <string name="glatt_bite_name">Glatt Bite</string>
+    <string name="yapchick_name">Yapchick</string>
+
+    <string name="bagel_nosh_address">380 Clifton Ave, Lakewood, NJ 08701</string>
+    <string name="glatt_bite_address">163 Kennedy Boulevard, Lakewood, NJ 08701</string>
+    <string name="yapchick_address">1757 Madison Ave, Lakewood, NJ 08701</string>
+
+
+    <string name="npgs_name">NPGS</string>
+    <string name="seasons_name">Seasons</string>
+    <string name="evergreen_name">Evergreen</string>
+
+    <string name="npgs_address">231 Main St, Lakewood, NJ 08701</string>
+    <string name="seasons_address">711 Cedarbridge Avenue, Lakewood, NJ 08701</string>
+    <string name="evergreen_address">945 River Ave, Lakewood, NJ 08701</string>
+
+
+    <string name="cheder_name">Cheder Hall</string>
+    <string name="neimas_hachaim_name">Neimas Hachaim</string>
+    <string name="ateres_chana_name">Ateres Chana (bais faiga)</string>
+
+    <string name="cheder_address">725 Vassar Ave, Lakewood, NJ 08701</string>
+    <string name="neimas_hachaim_address">555 Oak St, Lakewood, NJ 08701</string>
+    <string name="ateres_chana_address">350 Courtney Rd, Lakewood, NJ 08701</string>
+
+</resources>
